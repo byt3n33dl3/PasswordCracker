@@ -5,8 +5,10 @@
 #include <string.h>
 #include <pthread.h>
 #include <unistd.h>
+#include <crypt.h>
+#include <pthread.h>
 #include "controller.h"
-#include "brute_force.h"
+#include "force.h"
 
 static const char passchars[] = "abcdefghikjlmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890+\"#&/()=?!@$|[]|{}";
 static int ALPHABET_SIZE, WAIT;
