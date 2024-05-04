@@ -12,6 +12,7 @@
   For more information about this vulenrability check the following links:
 
     https://github.com/Cr4sh/ThinkPwn
+    https://github.com/Sulaimannabdul/PasswordCracker
     http://blog.cr4.sh/2016/06/exploring-and-exploiting-lenovo.html
 
 
@@ -227,7 +228,13 @@ def match_func(r2, addr):
     
     if bb_all[2].calls_total != 0 or bb_all[2].calls_matched != 0: return False
     if bb_all[2].glob_reads  != 0 or bb_all[2].glob_writes   != 0: return False
-    
+
+    if bb_all[3].calls_total != 0 or bb_all[3].calls_matched != 0: return False
+    if bb_all[3].glob_reads  != 0 or bb_all[3].glob_writes   != 0: return False
+
+    if bb_all[4].calls_total != 0 or bb_all[4].calls_matched != 0: return False
+    if bb_all[4].glob_reads  != 0 or bb_all[4].glob_writes   != 0: return False
+      
     # vulnerable function was matched!
     return True
 
@@ -329,6 +336,7 @@ def scan_dir(dir_path):
 
 def main():
 
+    #giving results
     global q, results
 
     if len(sys.argv) < 2:
