@@ -1,0 +1,10 @@
+void logo();
+void found();
+int set_threads();
+int set_hash(char* arg);
+int found_password();
+unsigned long get_time();
+void activate_timer();
+void print_time();
+void print_answer();
+void check(char* password);
