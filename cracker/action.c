@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
+#include <stdlib.h>
+#include <crypt.h>
+#include <pthread.h>
 
 # define MAX_CHARS 100
 
