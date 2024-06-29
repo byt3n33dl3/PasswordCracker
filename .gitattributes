@@ -1,0 +1,33 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+#* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+#*.c text
+#*.h text
+
+# Declare files that will always have CRLF line endings on checkout.
+run/oui.txt text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+run/*.chr binary
+src/PasswordCracker.com binary
+
+# Substitutions for git archive
+src/Makefile.in export-subst
+src/Makefile.legacy export-subst
+
+# Files/directories to be ignored for git archive
+.ci export-ignore
+.circle export-ignore
+.circleci export-ignore
+.git export-ignore
+.gitattributes export-ignore
+.github export-ignore
+.gitignore export-ignore
+.gitmodules export-ignore
+.pre-commit.sh export-ignore
+circle.yml export-ignore
+
+# This file should never be included in any branch, fork or archive
+PasswordCracker-local.conf export-ignore
