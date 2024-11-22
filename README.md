@@ -25,7 +25,7 @@ With the information malicious actors gain using password cracking, they can und
 
 A password cracker recovers passwords using various techniques. The process can involve comparing a list of words to guess passwords or the use of an algorithm to repeatedly guess the password.
 
-## Cracking
+# Cracking / `src`
 
 For recovering lost passwords, If you've forgotten your password, you can use a password cracker to help you regain access. Testing password strength Security professionals use password crackers to test the strength of their own passwords.
 
@@ -39,6 +39,8 @@ This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation: either version 2 of the License, or
 (at your option) any later version.
+
+# v13.2.0 / `master`
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY: without even the implied warranty of
@@ -67,7 +69,7 @@ GNU GPL version 2 or later as published by the FSF.
 
 by: (@byt3n33dl3) `Sulaiman A` [byt3n33dl3@pm.me](mailto:byt3n33dl3@proton.me)
 
-Perform a Fantastic Force Attacks, Incorporating Teeth Cybertooth and PasswordCracker. Fastest and most Advanced Password and Logon Cracker. 
+A Survival Knife (Fantastic) Force Attacks, Incorporating Teeth Cybertooth && John the Ripper, most Advanced Password and Logon Cracker.
 
 * **PasswordCracker**
 
@@ -129,6 +131,8 @@ Educational purposes only. Some credit to awesome people
 >- Openwall : www.openwall.com
 
 >- PasswordCracker : -
+
+A Survival Knife (Fantastic) Force Attacks, Incorporating Teeth Cybertooth && John the Ripper, most Advanced Password and Logon Cracker.
 
 >- Hashcat
 
