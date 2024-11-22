@@ -11,6 +11,22 @@
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
 
+# John the Ripper
+
+Password cracking is the process of using an application program to identify an unknown or forgotten password to a computer or network resource. It can also be used to help a threat actor obtain unauthorized access to resources.
+
+# Teeth Cybertooth
+
+With the information malicious actors gain using password cracking, they can undertake a range of criminal activities. Those include stealing banking credentials or using the information for identity theft and fraud. 
+
+A password cracker recovers passwords using various techniques. The process can involve comparing a list of words to guess passwords or the use of an algorithm to repeatedly guess the password.
+
+## Cracking Passwords
+
+For recovering lost passwords, If you've forgotten your password, you can use a password cracker to help you regain access. Testing password strength Security professionals use password crackers to test the strength of their own passwords.
+
+Verifying password policy compliance Password crackers can be used to ensure that an organization's password policy is being followed. For example, if the organization has a password expiration policy, password crackers can be run at intervals that coincide with the intended password lifetime.
+
 # `Copyright` 
 
 (c) 1996-2024 by @Openwall and @byt3n33dl3
