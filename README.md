@@ -109,11 +109,18 @@ A parallelized Password Cracking which supports numerous `History` or `Value` to
 
 Please read the (Documentation) file, as it contains the requirements for building and running the kernel, and information about the problems.
 
+Tests:
+
+Travis | Coverity | GitHub Actions
+------ | -------- | --------------
+[![Hashcat Travis Build status](https://travis-ci.org/hashcat/hashcat.svg?branch=master)](https://travis-ci.org/hashcat/hashcat) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/11753/badge.svg)](https://scan.coverity.com/projects/hashcat) | [![Hashcat GitHub Actions Build status](https://github.com/hashcat/hashcat/actions/workflows/build.yml/badge.svg)](https://github.com/hashcat/hashcat/actions/workflows/build.yml)
+
+
 ```
-Run: PasswordCracker -h for more.
+Run: passwordcracker -h for more.
 ```
 ```
-Run: PasswordCracker -hh for a lot more.
+Run: passwordcracker -hh for a lot more.
 ```
 
 # Notes
@@ -124,6 +131,8 @@ Educational purposes only. Some credit to awesome people
 >- PasswordCracker : -
 
 >- Hashcat
+
+Most advanced password recovery utility, supporting five unique modes of attack for over 300 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
 
 >- PasswordCracker : Teeth Smilodon
 
