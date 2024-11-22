@@ -25,7 +25,7 @@ With the information malicious actors gain using password cracking, they can und
 
 A password cracker recovers passwords using various techniques. The process can involve comparing a list of words to guess passwords or the use of an algorithm to repeatedly guess the password.
 
-# Cracking / `src`
+# Cracking
 
 For recovering lost passwords, If you've forgotten your password, you can use a password cracker to help you regain access. Testing password strength Security professionals use password crackers to test the strength of their own passwords.
 
@@ -111,12 +111,13 @@ A parallelized Password Cracking which supports numerous `History` or `Value` to
 
 Please read the (Documentation) file, as it contains the requirements for building and running the kernel, and information about the problems.
 
-Tests:
+# Tests: / `master`
 
 Travis | Coverity | GitHub Actions
 ------ | -------- | --------------
 [![Hashcat Travis Build status](https://travis-ci.org/hashcat/hashcat.svg?branch=master)](https://travis-ci.org/hashcat/hashcat) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/11753/badge.svg)](https://scan.coverity.com/projects/hashcat) | [![Hashcat GitHub Actions Build status](https://github.com/hashcat/hashcat/actions/workflows/build.yml/badge.svg)](https://github.com/hashcat/hashcat/actions/workflows/build.yml)
 
+<br>
 
 ```
 Run: passwordcracker -h for more.
