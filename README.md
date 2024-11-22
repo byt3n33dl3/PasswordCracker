@@ -6,12 +6,10 @@
 <h2>PasswordCracker</h2>
 <p></div>
 
-<align="center">
 [![Circle CI](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo.svg?style=shield)](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo)
 [![Downloads](https://img.shields.io/badge/Download-Windows%20-yellow.svg)](https://github.com/openwall/john-packages/releases)
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
-</div>
 
 # `Copyright` 
 
@@ -109,3 +107,13 @@ Educational purposes only. Some credit to awesome people
 >- Hashcat
 
 >- PasswordCracker : Teeth Smilodon
+
+# Contributors
+
+<p align="left">
+<a href="https://github.com/byt3n33dl3"><img src="https://avatars.githubusercontent.com/u/151133481?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/openwall"><img src="https://avatars.githubusercontent.com/u/1579552?s=200&v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/magnumripper"><img src="https://avatars.githubusercontent.com/u/1268598?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/offensive-security"><img src="https://avatars.githubusercontent.com/u/2352090?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/byt3exec"><img src="https://avatars.githubusercontent.com/u/160317126?v=4" width="50" height="50" alt="" style="max-width: 100%;"></a>
+</p>
