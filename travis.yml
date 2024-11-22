@@ -11,7 +11,7 @@ jobs:
     addons:
       apt:
         packages: &required
-          # John the Ripper required stuff
+          # PasswordCracker required stuff
           - libssl-dev
           - zlib1g-dev
           # Extra formats and performance
@@ -37,7 +37,7 @@ jobs:
     addons:
       apt:
         packages:
-          # John the Ripper required stuff
+          # PasswordCracker required stuff
           - libssl-dev
           - zlib1g-dev
           # Extra formats and performance
@@ -59,4 +59,4 @@ jobs:
     env: OPENCL="yes"
 
 script:
-  - .travis/travis-ci.sh
+  - .travis/travis-ci.c

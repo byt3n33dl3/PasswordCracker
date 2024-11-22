@@ -9,9 +9,11 @@
 [![Circle CI](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo.svg?style=shield)](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo)
 [![Downloads](https://img.shields.io/badge/Download-Windows%20-yellow.svg)](https://github.com/openwall/john-packages/releases)
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
 
-Copyright (c) 1996-2024 by Openwall and @byt3n33dl3
+# `Copyright` (c) 1996-2024 
+
+by Openwall and byt3n33dl3
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -33,21 +35,25 @@ exception to your version of the program, but you are not obligated to
 do so.  (In other words, you may release your derived work under pure
 GNU GPL version 2 or later as published by the FSF.)
 
+```c
+   ___                                 _______             __          
+  / _ \___ ____ ____    _____  _______/ / ___/______ _____/ /_____ ____
+ / ___/ _ `(_-<(_-< |/|/ / _ \/ __/ _  / /__/ __/ _ `/ __/  '_/ -_) __/
+/_/   \_,_/___/___/__,__/\___/_/  \_,_/\___/_/  \_,_/\__/_/\_\\__/_/  v3.0 
+                                                                       
 ```
-  ___                              _  ___             _           
- | _ \__ _ _______ __ _____ _ _ __| |/ __|_ _ __ _ __| |_____ _ _ 
- |  _/ _` (_-<_-< V  V / _ \ '_/ _` | (__| '_/ _` / _| / / -_) '_|
- |_| \__,_/__/__/\_/\_/\___/_| \__,_|\___|_| \__,_\__|_\_\___|_|  v3
-                                                                  
-```
+
+# Introduction
 
 Sulaiman Aziz [byt3n33dl3@pm.me](byt3n33dl3@proton.me)
 
-by: github.com/byt3n33dl3 (@byt3n33dl3) `Sulaiman A`
+by: <github.com/byt3n33dl3> (@byt3n33dl3) `Sulaiman A`
 
 Perform a (Fantastic) Force Attacks, Incorporating Teeth Cybertooth and John the Ripper. Fastest and most Advanced Password and Logon Cracker. 
 
 <hr>
+
+# How ?
 
 Works by Recover all the 'Activity' overall
 
@@ -55,9 +61,12 @@ A parallelized 'Password Cracking' which supports numerous 'history' or 'value' 
 
 Please read the ( Documentation ) file, as it contains the requirements for building and running the kernel, and information about the problems.
 
+```
 Run ( PasswordCracker -h ) for more.
-
+```
+```
 Run ( PasswordCracker -hh ) for a lot more.
+```
 
 # Note
 

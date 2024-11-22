@@ -11,11 +11,11 @@ run/oui.txt text eol=crlf
 
 # Denote all files that are truly binary and should not be modified.
 run/*.chr binary
-src/PasswordCracker.com binary
+lib/passwordcracker.com binary
 
 # Substitutions for git archive
-src/Makefile.in export-subst
-src/Makefile.legacy export-subst
+lib/Makefile.in export-subst
+lib/Makefile.legacy export-subst
 
 # Files/directories to be ignored for git archive
 .ci export-ignore
@@ -30,4 +30,4 @@ src/Makefile.legacy export-subst
 circle.yml export-ignore
 
 # This file should never be included in any branch, fork or archive
-PasswordCracker-local.conf export-ignore
+passwordcracker-local.conf export-ignore
