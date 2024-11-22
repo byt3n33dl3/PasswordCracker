@@ -35,7 +35,7 @@ exception to your version of the program, but you are not obligated to
 do so.  (In other words, you may release your derived work under pure
 GNU GPL version 2 or later as published by the FSF.)
 
-```c
+```js
    ___                                 _______             __          
   / _ \___ ____ ____    _____  _______/ / ___/______ _____/ /_____ ____
  / ___/ _ `(_-<(_-< |/|/ / _ \/ __/ _  / /__/ __/ _ `/ __/  '_/ -_) __/
@@ -45,31 +45,27 @@ GNU GPL version 2 or later as published by the FSF.)
 
 # Introduction
 
-<div align="center">
-<h2>PasswordCracker</h2>
-<p></div>
-
 by: (@byt3n33dl3) `Sulaiman A`
 Sulaiman Aziz [byt3n33dl3@pm.me](byt3n33dl3@proton.me)
 
-Perform a (Fantastic) Force Attacks, Incorporating Teeth Cybertooth and John the Ripper. Fastest and most Advanced Password and Logon Cracker. 
+Perform a Fantastic Force Attacks, Incorporating Teeth Cybertooth and John the Ripper. Fastest and most Advanced Password and Logon Cracker. 
 
 # How ?
 
-Works by Recover all the 'Activity' overall
+Works by Recover all the `Activity` overall
 
-A parallelized 'Password Cracking' which supports numerous 'history' or 'value' to attack. It is very fast and flexible, and new modules are easy to add. Making this tool to be powerful for brute forcing passwords. It can perform fast and parallel dictionary attacks against 'lost' protocols. It is easy to install and use and has many options to help you customize and optimize your attacks.
+A parallelized Password Cracking which supports numerous `History` or `Value` to Attacks. It is very fast and flexible, and new modules are easy to add. Making this tool to be powerful for brute forcing passwords. It can perform fast and parallel dictionary attacks against 'lost' protocols. It is easy to install and use and has many options to help you customize and optimize your attacks.
 
-Please read the ( Documentation ) file, as it contains the requirements for building and running the kernel, and information about the problems.
+Please read the (Documentation) file, as it contains the requirements for building and running the kernel, and information about the problems.
 
 ```
-Run ( PasswordCracker -h ) for more.
+Run: PasswordCracker -h for more.
 ```
 ```
-Run ( PasswordCracker -hh ) for a lot more.
+Run: PasswordCracker -hh for a lot more.
 ```
 
-# Note
+# Notes
 
 Educational purposes only. Some credit to awesome people
 >- Openwall

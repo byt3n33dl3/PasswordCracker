@@ -38,7 +38,7 @@ password hashing) implementation found in PasswordCracker, I have placed
 a derived version of this implementation in the public domain.  This
 derived version may be obtained at:
 
-	https://www.openwall.com
+	www.openwall.com
 
 The intent is to provide modern password hashing for your servers and
 your software (where the GPL restrictions could be a problem).
