@@ -1,5 +1,5 @@
 <a href="https://github.com/byt3n33dl3/PasswordCracker"><p align="center">
-<img width="250" height="250" src="/img/johntheripper.png">
+<img width="250" height="250" src="/img/john.png">
 </p></a>
 
 <div align="center">
@@ -65,19 +65,19 @@ This field of science is basically perceived as cryptanalysis. In fact, there ex
 One of the most common methods to crack passwords is brute-force attacks.It is simply a method which mainly depends on performing a cross-checking against a cryptographic hash which is available for the password.
   
   . It is simply a method which mainly depends on performing a cross-checking against a cryptographic hash which is available for the password.
-  . On the other hand, a password could be recovered through what is called ‘rainbow’ table. It is much faster and contains password hashes from which a password is guessed by a computer system.
+  . On the other hand, a password could be recovered through what is called `rainbow` table. It is much faster and contains password hashes from which a password is guessed by a computer system.
   
 * **Common types of attacks used by PasswordCracker**
   There are essentially two main types of attacks harnessed by PasswordCracker in order for it to crack any password.
   
-    1.Dictionary Attacks
+    .Dictionary Attacks
     
       a. String samples are essentially taken from a specific wordlist, text file, a dictionary or past cracked passwords.
       b. They are then encrypted identically to the method, key, and algorithm in which the desired password was encrypted originally.
       c. Dictionary words could also be altered in a randomized manner to check if they work this way
       d. Single attack mode of PasswordCracker can do such alterations. Accordingly, different hashes’ variations are compared when using different alterations.
       
-    2.Brute Force Attacks
+    .Brute Force Attacks
     
       a. All possible plaintexts composed of usernames with encrypted passwords are all exhausted to find the right one.
       b. They are all hashed and compared to the originally inputted hash.
