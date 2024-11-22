@@ -1,0 +1,7 @@
+protobuf~=3.20
+pycryptodome
+scapy
+parsimonious
+asn1crypto
+dpkt
+pyhanko==0.20.1
