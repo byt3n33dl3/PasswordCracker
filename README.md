@@ -10,6 +10,7 @@
 [![Downloads](https://img.shields.io/badge/Download-Linux%20-green.svg)](https://github.com/openwall/john-packages/releases)
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
+[![Documentation](https://img.shields.io/badge/OSCP+-brown.svg?maxAge=259200)](https://github.com/byt3n33dl3/PasswordCracker)
 
 <div align="center">
 PasswordCracker is designed to be both feature rich and fast. It combines several cracking modes in one program and is fully configurable for your particular needs. You can even define a custom cracking mode using the built in compiler supporting a subset of C. Also, John is available for several different platforms which enables you to use the same cracker everywhere, you can even continue a cracking session which you started on another platform.
@@ -69,7 +70,7 @@ GNU GPL version 2 or later as published by the FSF.
 
 by: (@byt3n33dl3) `Sulaiman A` [byt3n33dl3@pm.me](mailto:byt3n33dl3@proton.me)
 
-A Survival Knife (Fantastic) Force Attacks, Incorporating Teeth Cybertooth && John the Ripper, most Advanced Password and Logon Cracker.
+A Survival Knife Fantastic Force Attacks, Incorporating Teeth Cybertooth && John the Ripper, most Advanced Password and Logon Cracker.
 
 * **PasswordCracker**
 
@@ -109,7 +110,7 @@ Works by Recover all the `Activity` overall
 
 A parallelized Password Cracking which supports numerous `History` or `Value` to Attacks. It is very fast and flexible, and new modules are easy to add. Making this tool to be powerful for brute forcing passwords. It can perform fast and parallel dictionary attacks against 'lost' protocols. It is easy to install and use and has many options to help you customize and optimize your attacks.
 
-Please read the (Documentation) file, as it contains the requirements for building and running the kernel, and information about the problems.
+Please read the Documentation file, as it contains the requirements for building and running the kernel, and information about the problems.
 
 # Tests: / `master`
 
