@@ -11,9 +11,9 @@
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
 
-# `Copyright` (c) 1996-2024 
+## `Copyright` (c) 1996-2024 
 
-by Openwall and byt3n33dl3
+by @Openwall and @byt3n33dl3
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
