@@ -7,12 +7,12 @@
 <p></div>
 
 [![Circle CI](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo.svg?style=shield)](https://circleci.com/gh/openwall/john/tree/bleeding-jumbo)
-[![Downloads](https://img.shields.io/badge/Download-Windows%20-yellow.svg)](https://github.com/openwall/john-packages/releases)
+[![Downloads](https://img.shields.io/badge/Download-Linux%20-green.svg)](https://github.com/openwall/john-packages/releases)
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
 
 <div align="center">
-PasswordCracker is designed to be both feature-rich and fast. It combines several cracking modes in one program and is fully configurable for your particular needs. You can even define a custom cracking mode using the built-in compiler supporting a subset of C. Also, John is available for several different platforms which enables you to use the same cracker everywhere, you can even continue a cracking session which you started on another platform.
+PasswordCracker is designed to be both feature rich and fast. It combines several cracking modes in one program and is fully configurable for your particular needs. You can even define a custom cracking mode using the built in compiler supporting a subset of C. Also, John is available for several different platforms which enables you to use the same cracker everywhere, you can even continue a cracking session which you started on another platform.
 <p></div>
 
 * **John the Ripper**
@@ -33,7 +33,7 @@ Verifying password policy compliance Password crackers can be used to ensure tha
 
 # `Copyright` 
 
-(c) 1996-2024 by @Openwall and @byt3n33dl3
+`(c)` 1996-2024 by @Openwall and @byt3n33dl3
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -79,7 +79,7 @@ Originally, “Cracker Jack” was developed for the sake of cracking Unix /etc/
 
 This field of science is basically perceived as cryptanalysis. In fact, there exist some vulnerabilities in passwords, which opens the gate for hackers to exploit in order to get the password back from its encrypted format following the use of a hashing method.
 
-One of the most common methods to crack passwords is brute-force attacks.It is simply a method which mainly depends on performing a cross-checking against a cryptographic hash which is available for the password.
+One of the most common methods to crack passwords is brute force attacks.It is simply a method which mainly depends on performing a cross-checking against a cryptographic hash which is available for the password.
   
   . It is simply a method which mainly depends on performing a cross-checking against a cryptographic hash which is available for the password.
   . On the other hand, a password could be recovered through what is called `rainbow` table. It is much faster and contains password hashes from which a password is guessed by a computer system.
@@ -92,7 +92,7 @@ One of the most common methods to crack passwords is brute-force attacks.It is s
       a. String samples are essentially taken from a specific wordlist, text file, a dictionary or past cracked passwords.
       b. They are then encrypted identically to the method, key, and algorithm in which the desired password was encrypted originally.
       c. Dictionary words could also be altered in a randomized manner to check if they work this way
-      d. Single attack mode of PasswordCracker can do such alterations. Accordingly, different hashes’ variations are compared when using different alterations.
+      d. Single attack mode of PasswordCracker can do such alterations. Accordingly, different hashes variations are compared when using different alterations.
       
     .Brute Force Attacks
     
@@ -101,7 +101,7 @@ One of the most common methods to crack passwords is brute-force attacks.It is s
       c. Character frequency tables are used by the program for the sake of including the most probable used characters first.
       d. This method is so slow, yet it could identify those passwords having no existence in a dictionary.
 
-# Information
+# Info
 
 Works by Recover all the `Activity` overall
 
