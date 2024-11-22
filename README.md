@@ -11,17 +11,21 @@
 [![License](https://img.shields.io/badge/License-GPL%20%2B-blue.svg)](https://github.com/openwall/john/blob/bleeding-jumbo/doc/LICENSE)
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/openwall/john?color=brown)
 
-# John the Ripper
+<div align="center">
+PasswordCracker is designed to be both feature-rich and fast. It combines several cracking modes in one program and is fully configurable for your particular needs. You can even define a custom cracking mode using the built-in compiler supporting a subset of C. Also, John is available for several different platforms which enables you to use the same cracker everywhere, you can even continue a cracking session which you started on another platform.
+<p></div>
+
+* **John the Ripper**
 
 Password cracking is the process of using an application program to identify an unknown or forgotten password to a computer or network resource. It can also be used to help a threat actor obtain unauthorized access to resources.
 
-# Teeth Cybertooth
+* **Teeth Cybertooth**
 
 With the information malicious actors gain using password cracking, they can undertake a range of criminal activities. Those include stealing banking credentials or using the information for identity theft and fraud. 
 
 A password cracker recovers passwords using various techniques. The process can involve comparing a list of words to guess passwords or the use of an algorithm to repeatedly guess the password.
 
-## Cracking Passwords
+## Cracking
 
 For recovering lost passwords, If you've forgotten your password, you can use a password cracker to help you regain access. Testing password strength Security professionals use password crackers to test the strength of their own passwords.
 
@@ -61,8 +65,7 @@ GNU GPL version 2 or later as published by the FSF.
 
 # Introduction
 
-by: (@byt3n33dl3) `Sulaiman A`
-Sulaiman Aziz [byt3n33dl3@pm.me](byt3n33dl3@proton.me)
+by: (@byt3n33dl3) `Sulaiman A` [byt3n33dl3@pm.me](mailto:byt3n33dl3@proton.me)
 
 Perform a Fantastic Force Attacks, Incorporating Teeth Cybertooth and PasswordCracker. Fastest and most Advanced Password and Logon Cracker. 
 
@@ -98,7 +101,7 @@ One of the most common methods to crack passwords is brute-force attacks.It is s
       c. Character frequency tables are used by the program for the sake of including the most probable used characters first.
       d. This method is so slow, yet it could identify those passwords having no existence in a dictionary.
 
-# How ?
+# Information
 
 Works by Recover all the `Activity` overall
 
