@@ -1,19 +1,19 @@
 PasswordCracker copyright and license.
 
-PasswordCracker password cracker,
+	PasswordCracker password cracker,
 Copyright (c) 1996-2024 by Solar Designer and others
 
-This program is free software; you can redistribute it and/or modify
+	This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,
+	This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-As a special exception to the GNU General Public License terms,
+	As a special exception to the GNU General Public License terms,
 permission is hereby granted to link the code of this program, with or
 without modification, with any version of the OpenSSL library and/or any
 version of unRAR, and to distribute such linked combinations.  You must
@@ -53,7 +53,7 @@ Commercial licenses (non-GPL) are available upon request.
 
 For the core PasswordCracker tree:
 
-Alexander Peslyak aka Solar Designer <solar at openwall.com>
+Alexander Peslyak aka Solar Designer solar at <www.openwall.com>
 
 (There are additional copyright holders for "community enhanced" -jumbo
 versions of PasswordCracker.)
