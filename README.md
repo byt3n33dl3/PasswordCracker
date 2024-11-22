@@ -45,13 +45,14 @@ GNU GPL version 2 or later as published by the FSF.)
 
 # Introduction
 
+<div align="center">
+<h2>PasswordCracker</h2>
+<p></div>
+
+by: (@byt3n33dl3) `Sulaiman A`
 Sulaiman Aziz [byt3n33dl3@pm.me](byt3n33dl3@proton.me)
 
-by: <github.com/byt3n33dl3> (@byt3n33dl3) `Sulaiman A`
-
 Perform a (Fantastic) Force Attacks, Incorporating Teeth Cybertooth and John the Ripper. Fastest and most Advanced Password and Logon Cracker. 
-
-<hr>
 
 # How ?
 
@@ -72,5 +73,7 @@ Run ( PasswordCracker -hh ) for a lot more.
 
 Educational purposes only. Some credit to awesome people
 >- Openwall
+
 >- John the Ripper
+
 >- Hashcat
